@@ -27,4 +27,6 @@ Aplicativo criado para ensinar educação financeira de forma lúdica e interati
 - Medium
 
 ## 📸 Telas
-![Tela Inicial](imagens/homepage.png)
+![Desktop](https://github.com/user-attachments/assets/34d564f3-f184-432d-8642-d0cdbc29d8f7)
+![Mobile e Smartwaches](https://github.com/user-attachments/assets/8fea1117-8fe4-49ca-9bdb-aa4802ec5c26)
+
