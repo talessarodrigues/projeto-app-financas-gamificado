@@ -3,20 +3,20 @@
 Aplicativo criado para ensinar educação financeira de forma lúdica e interativa. Desenvolvido com base em entrevistas, testes de usabilidade e benchmarks com apps reais como o do Itaú.
 
 ## 💡 Principais entregas
-- pesquisa e descoberta
-- desk research
+- Pesquisa e descoberta
+- Desk research
 - Persona e stakeholders
-- matriz csd
-- pesquisa quantitativa
-- mapa de empatia e jornada do usuário
-- needs statements
-- ideação de 4 soluções
+- Matriz csd
+- Pesquisa quantitativa
+- Mapa de empatia e jornada do usuário
+- Needs statements
+- Ideação de 4 soluções
 - Protótipo gamificado com desafios financeiros
 - Testes com usuários reais
 - Feedback qualitativo da experiência
-- style guide
+- Style guide
 - Design Responsivo das telas
-- prototipo de alta fidelidade
+- Prototipo de alta fidelidade
 
 ## 🧩 Ferramentas
 - Figma
