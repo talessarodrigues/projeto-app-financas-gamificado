@@ -18,6 +18,37 @@ Aplicativo criado para ensinar educação financeira de forma lúdica e interati
 - Design Responsivo das telas
 - Prototipo de alta fidelidade
 
+## 🎯 Problema
+Os usuários enfrentavam dificuldades para navegar e realizar operações bancárias no aplicativo atual do banco digital, incluindo:
+- Navegação confusa e pouco intuitiva
+- Falta de clareza visual em algumas funções
+- Dificuldade em acessar funcionalidades importantes rapidamente
+- Pouca personalização e engajamento do usuário
+
+## 🔍 Pesquisa e Diagnóstico
+Para entender as necessidades dos usuários e identificar pontos críticos:
+- Foram realizadas entrevistas em profundidade com usuários reais
+- Análise da experiência atual do aplicativo, identificando pontos de dor
+- Pesquisa de concorrentes para benchmark de melhores práticas
+
+## 💡 Soluções Propostas
+- Redesenho dos fluxos de navegação para facilitar o acesso às funções mais usadas
+- Criação de protótipos de alta fidelidade focados em clareza visual e usabilidade
+- Introdução de elementos visuais que transmitissem segurança e modernidade
+- Implementação de recursos que aumentam o engajamento e a personalização da experiência
+
+## 🚀 Resultados Obtidos
+- Aumento na satisfação dos usuários, segundo feedback qualitativo
+- Navegação mais fluida e intuitiva, com redução de erros na interação
+- Melhor compreensão das funcionalidades e maior rapidez para completar tarefas
+- Recebimento de feedback positivo por parte de stakeholders e usuários
+
+## 📂 O que está neste repositório
+- Protótipos e wireframes em alta fidelidade
+- Documentação da pesquisa e análise de usuário
+- Diagramas de fluxo e mapas de navegação
+- Relatório final com resultados e recomendações
+- 
 ## 🧩 Ferramentas
 - Figma
 - Design Thinking
